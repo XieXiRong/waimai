@@ -1,3 +1,5 @@
+#vue写的外卖项目,模仿饿了么
+
 # gshop
 
 > A Vue.js project
